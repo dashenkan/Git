@@ -40,7 +40,10 @@ touch TestListStructure.txt
 8. Запушить структуру на внешний репозиторий
 git push 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main
-
+compare & pull Request
+create pull Request
+merge pull Request
+Confirm merge
 10. Синхронизировать Внешнюю и Локальную ветки Main
 git checkout main 
 git Pull
